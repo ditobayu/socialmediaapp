@@ -1,2 +1,2 @@
 # socialmediaapp
-rewrite social media projects from youtube tutorials
+recreate social media projects from youtube tutorials
